@@ -1,0 +1,5 @@
+/target/
+pipeline-demo-app.jar
+.classpath
+.project
+.settings/
